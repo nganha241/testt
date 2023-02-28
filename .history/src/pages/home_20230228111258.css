@@ -1,0 +1,17 @@
+.home {
+  margin: 0 auto;
+  padding: 10px 150px;
+}
+.home-content {
+  text-align: center;
+  background: #efefef;
+  padding: 20px 180px;
+  font-size: 16px;
+}
+.content-title {
+  font-weight: bold;
+  text-align: center;
+}
+.home-card {
+  display: flex;
+}

@@ -1,0 +1,25 @@
+.nav {
+  position: fixed;
+  top: 0;
+  left: -38px;
+  height: 100%;
+  background: #191718;
+}
+.nav-content {
+  /* padding: 10px; */
+  color: #aaaa;
+}
+.nav-content li {
+  border-bottom: 1px solid;
+  list-style-type: none;
+  padding: 10px 50px 10px 10px;
+}
+
+.nav-content li:hover {
+  color: #fff;
+  background: wheat;
+}
+.nav-content li a {
+  color: #aaaa;
+  text-decoration: none;
+}

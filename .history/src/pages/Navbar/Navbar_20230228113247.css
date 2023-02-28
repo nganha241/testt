@@ -1,0 +1,19 @@
+.nav {
+  position: fixed;
+  left: 0;
+  height: 100%;
+  background: #191718;
+}
+.nav-content {
+  /* padding: 10px; */
+  color: #aaaa;
+}
+.nav-content li {
+  list-style-type: none;
+  padding: 10px;
+}
+
+.nav-content li:hover {
+  color: #fff;
+  background: wheat;
+}

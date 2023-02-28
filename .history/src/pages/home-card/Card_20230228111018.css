@@ -1,0 +1,16 @@
+.card-title {
+  font-weight: bold;
+}
+/* .card-content {
+  display: flex;
+} */
+.card-content img {
+  width: 128px;
+  height: 128px;
+  object-fit: cover;
+  float: left;
+}
+
+.card-text {
+  text-align: left;
+}

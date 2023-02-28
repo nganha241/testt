@@ -1,0 +1,20 @@
+.home {
+  margin: 0 auto;
+  padding: 10px 150px 10px 250px;
+}
+.home-title {
+  text-align: center;
+}
+.home-content {
+  text-align: center;
+  background: #efefef;
+  padding: 20px 160px;
+  font-size: 16px;
+}
+.content-title {
+  font-weight: bold;
+}
+.home-card {
+  display: flex;
+  gap: 20px;
+}

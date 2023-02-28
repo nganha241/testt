@@ -1,0 +1,8 @@
+.home {
+  margin: 0 auto;
+  text-align: center;
+  padding: 10px 200px;
+}
+.home-content {
+  background: grey;
+}

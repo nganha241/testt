@@ -1,0 +1,13 @@
+.nav {
+  position: fixed;
+  left: 0;
+  height: 100%;
+  background: black;
+}
+.nav-content {
+  padding: 10px;
+  color: #aaaa;
+}
+.nav-content li {
+  list-style-type: none;
+}

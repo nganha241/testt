@@ -1,0 +1,9 @@
+.card-content {
+  display: flex;
+}
+.card-content img {
+  width: 10%;
+}
+
+.card-text {
+}
